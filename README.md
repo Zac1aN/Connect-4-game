@@ -16,4 +16,5 @@ https://polite-clafoutis-b87d11.netlify.app/
 
 # Screenshot
 
-![Alt text](/relative/path/to/Screenshot(235).png?raw=true "Optional Title")
+![Screenshot (235)](https://user-images.githubusercontent.com/73705392/230711772-e3753240-b98f-4f16-a9ec-decc9d394cc0.png)
+
