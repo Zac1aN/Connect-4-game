@@ -10,6 +10,6 @@ A single page website responsive website made for people to enjoy the highly fun
 
 The main framework used in building the Connect-4 dots game are Javascript and one of its ultimate libraries, i.e React along with some CSS3, HTML5 and Google Fonts.
 
-#Link of the Website
+# Link of the Website
 
 https://polite-clafoutis-b87d11.netlify.app/
