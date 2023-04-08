@@ -13,3 +13,7 @@ The main framework used in building the Connect-4 dots game are Javascript and o
 # Link of the Website
 
 https://polite-clafoutis-b87d11.netlify.app/
+
+# Screenshot
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
